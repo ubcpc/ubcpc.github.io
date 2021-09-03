@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on UBC Persian Club</title>
+    <link>http://ubcpc.github.io/tags/</link>
+    <description>Recent content in Tags on UBC Persian Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© All rights reserved</copyright>
+    <lastBuildDate>Sat, 21 Aug 2021 14:50:27 -0700</lastBuildDate><atom:link href="http://ubcpc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>protalk</title>
+      <link>http://ubcpc.github.io/tags/protalk/</link>
+      <pubDate>Sat, 21 Aug 2021 14:50:27 -0700</pubDate>
+      
+      <guid>http://ubcpc.github.io/tags/protalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>http://ubcpc.github.io/tags/event/</link>
+      <pubDate>Tue, 10 Aug 2021 14:38:16 -0700</pubDate>
+      
+      <guid>http://ubcpc.github.io/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patogh</title>
+      <link>http://ubcpc.github.io/tags/patogh/</link>
+      <pubDate>Tue, 10 Aug 2021 14:38:16 -0700</pubDate>
+      
+      <guid>http://ubcpc.github.io/tags/patogh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
