@@ -248,9 +248,8 @@ ul {
 .header .avatar img {
     width: 96px;
     height: 96px;
-    /* overflow: hidden; */
     border-radius: 100%;
-    min-width: 100%;
+    min-width: 96px;
 }
 .header .site-title {
     margin: 0;
