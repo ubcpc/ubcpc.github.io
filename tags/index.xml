@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on UBC Persian Club</title>
-    <link>https://ubcpc.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on UBC Persian Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© All rights reserved</copyright>
-    <lastBuildDate>Sat, 21 Aug 2021 14:50:27 -0700</lastBuildDate><atom:link href="https://ubcpc.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 14:50:27 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>protalk</title>
-      <link>https://ubcpc.net/tags/protalk/</link>
+      <link>/tags/protalk/</link>
       <pubDate>Sat, 21 Aug 2021 14:50:27 -0700</pubDate>
       
-      <guid>https://ubcpc.net/tags/protalk/</guid>
+      <guid>/tags/protalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>event</title>
-      <link>https://ubcpc.net/tags/event/</link>
+      <link>/tags/event/</link>
       <pubDate>Tue, 10 Aug 2021 14:38:16 -0700</pubDate>
       
-      <guid>https://ubcpc.net/tags/event/</guid>
+      <guid>/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>patogh</title>
-      <link>https://ubcpc.net/tags/patogh/</link>
+      <link>/tags/patogh/</link>
       <pubDate>Tue, 10 Aug 2021 14:38:16 -0700</pubDate>
       
-      <guid>https://ubcpc.net/tags/patogh/</guid>
+      <guid>/tags/patogh/</guid>
       <description></description>
     </item>
     

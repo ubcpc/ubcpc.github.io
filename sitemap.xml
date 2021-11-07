@@ -1,53 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ubcpc.net/</loc>
+    <loc>/</loc>
     <lastmod>2021-08-23T12:23:52-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/posts/</loc>
+  </url><url>
+    <loc>/posts/</loc>
     <lastmod>2021-08-21T14:50:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/tags/protalk/</loc>
+  </url><url>
+    <loc>/tags/protalk/</loc>
     <lastmod>2021-08-21T14:50:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/posts/protalk-arian/</loc>
+  </url><url>
+    <loc>/posts/protalk-arian/</loc>
     <lastmod>2021-08-21T14:50:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/tags/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-08-21T14:50:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/tags/event/</loc>
+  </url><url>
+    <loc>/tags/event/</loc>
     <lastmod>2021-08-10T14:38:16-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/tags/patogh/</loc>
+  </url><url>
+    <loc>/tags/patogh/</loc>
     <lastmod>2021-08-10T14:38:16-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/posts/patogh-14aug/</loc>
+  </url><url>
+    <loc>/posts/patogh-14aug/</loc>
     <lastmod>2021-08-10T14:38:16-07:00</lastmod>
+  </url><url>
+    <loc>/academic/</loc>
+  </url><url>
+    <loc>/sponsors/</loc>
+  </url><url>
+    <loc>/student-life/</loc>
   </url>
-  
-  <url>
-    <loc>https://ubcpc.net/academic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ubcpc.net/student-life/</loc>
-  </url>
-  
 </urlset>

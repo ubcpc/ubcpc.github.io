@@ -499,3 +499,13 @@ ul {
         line-height: 1.4em;
     }
 }
+
+.sponsor-row {
+    height: 150px;
+    padding-bottom: 10px;
+}
+
+.sponsor-logo {
+    float:right;
+    max-height: 100%;
+}

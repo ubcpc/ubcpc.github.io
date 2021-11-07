@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UBC Persian Club</title>
-    <link>https://ubcpc.net/</link>
+    <link>/</link>
     <description>Recent content on UBC Persian Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© All rights reserved</copyright>
-    <lastBuildDate>Mon, 23 Aug 2021 12:23:52 -0700</lastBuildDate><atom:link href="https://ubcpc.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 12:23:52 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protalk: Arian Zand</title>
-      <link>https://ubcpc.net/posts/protalk-arian/</link>
+      <link>/posts/protalk-arian/</link>
       <pubDate>Sat, 21 Aug 2021 14:50:27 -0700</pubDate>
       
-      <guid>https://ubcpc.net/posts/protalk-arian/</guid>
+      <guid>/posts/protalk-arian/</guid>
       <description>In the seventh episode of the ProTalk series we will be interviewing Arian Zand. Arian has graduated from the University of British Columbia with an undergrad in Honors Political Science and International Studies. After working with the BC parliament, Arian is now pursuing a Masters Degree in International Studies at University of Chicago. Join our live on August 26th at 8 pm to hear more about Arian’s experience in the parliament and his journey this far.</description>
     </item>
     
     <item>
       <title>Patogh, 14 August</title>
-      <link>https://ubcpc.net/posts/patogh-14aug/</link>
+      <link>/posts/patogh-14aug/</link>
       <pubDate>Tue, 10 Aug 2021 14:38:16 -0700</pubDate>
       
-      <guid>https://ubcpc.net/posts/patogh-14aug/</guid>
+      <guid>/posts/patogh-14aug/</guid>
       <description>Tired of attending virtual events?Join us in our second IN PERSON Patogh event of the year and have fun socially interacting with others!
 📍This event will be held at Spanish Banks on Aug 14th.
 🏖 We will have games such as volleyball, vasati, esm-famil, pantomime and so much more.
@@ -31,20 +31,33 @@
     
     <item>
       <title>Academic</title>
-      <link>https://ubcpc.net/academic/</link>
+      <link>/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubcpc.net/academic/</guid>
+      <guid>/academic/</guid>
       <description>Mentorship Program The Mentorship Program is an initiative aimed at supporting other Iranians who are either prospective UBC students or wish to apply to UBC in the next few application cycles. As part of the program, mentees will be paired with current UBC undergraduate or graduate students to learn about educational resources, specifics about studying at UBC, community involvement strategies, and housing and finance information.
 Journal Pejvak [Pezhvaak] is the first-ever Persinate academic journal at the University of British Columbia.</description>
     </item>
     
     <item>
-      <title>Student Life</title>
-      <link>https://ubcpc.net/student-life/</link>
+      <title>Sponsors</title>
+      <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubcpc.net/student-life/</guid>
+      <guid>/sponsors/</guid>
+      <description>UBCPC has been supported by the following bussinesses. Also, there are exclusive offers available for UBCPC members.
+Khaneye Tarjome
+ Website | (604) 484-1380 15-20% off at their service for members    Khaghan Restaurant Downtown
+ Website | (604) 620-7688 | 851 Denman St, Vancouver V6G 2L9 10% off for members      CICS Immigration
+ Website Discount on certain services for members      Vancouver TESOL Training Center</description>
+    </item>
+    
+    <item>
+      <title>Student Life</title>
+      <link>/student-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/student-life/</guid>
       <description>Salam! Our names are Pouya and Ava and we are your Student Life team this year! Our goal is to bring together the Persian community at UBC through fun games and events meant to give you a place to meet new friends, relax, and enjoy our culture. In the past, we have had various events including: Mafia game nights, “Patogh” hang-outs, Norooz parties, Shame Irani, Shabe Yalda celebrations, Ava (Music) nights, Farsi School in collaboration with the University of Toronto, and unique workshops lead by experts.</description>
     </item>
     
